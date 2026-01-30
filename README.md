@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Reyan Ahmad
-**A passionate Data Scientist || Data Analyst || Web Developer**
+**A passionate Data Scientist || AI/ML Intern**
 
 Email Me 👉 ✉️ **reyanansari7471@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
