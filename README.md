@@ -2,7 +2,7 @@
 
 ### MCA Graduate | Python Developer | AI & Web Development Enthusiast
 
-I am a passionate and detail-oriented software developer with a strong interest in Python development, Artificial Intelligence, Web Development, and Prompt Engineering. I recently completed my Master of Computer Applications (MCA) from Silver Oak University and continuously work on improving my technical and problem-solving skills through real-world projects.
+I am a passionate and detail-oriented software developer with a strong interest in Python development, Artificial Intelligence, Web Development, and Prompt Engineering. I recently completed my Master of Computer Applications (MCA) at Silver Oak University and continue to build my technical and problem-solving skills through real-world projects.
 
 I enjoy building practical applications that combine clean design, intelligent functionality, and user-friendly experiences. My focus is on developing scalable and impactful solutions using modern technologies.
 
@@ -40,29 +40,6 @@ I enjoy building practical applications that combine clean design, intelligent f
 - VS Code
 - Streamlit
 - Jupyter Notebook
-
----
-
-## 📌 Featured Projects
-
-### ❤️ HeartGuard – Heart Disease Prediction System
-A machine learning-based healthcare project built with Python and Streamlit that predicts the risk of heart disease using manually implemented ML workflows and interactive visualizations.
-
-### 🌿 Plant Disease Detection System
-An AI-powered crop disease detection project using Convolutional Neural Networks (CNN) and transfer learning techniques for identifying plant diseases from images.
-
-### 📄 AI Resume Builder
-A smart resume builder that helps users generate ATS-friendly resumes with AI-powered suggestions, scoring, and content optimization features.
-
----
-
-## 📈 Currently Working On
-
-- Advanced Python Development
-- AI-Powered Applications
-- Prompt Engineering
-- Machine Learning Projects
-- Improving Problem Solving & DSA Skills
 
 ---
 
