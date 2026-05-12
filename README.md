@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there 👋, I'm Reyan Ansari
 
-<!--
-**Reyan7471/Reyan7471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Graduate | Python Developer | AI & Web Development Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate and detail-oriented software developer with a strong interest in Python development, Artificial Intelligence, Web Development, and Prompt Engineering. I recently completed my Master of Computer Applications (MCA) from Silver Oak University and continuously work on improving my technical and problem-solving skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications that combine clean design, intelligent functionality, and user-friendly experiences. My focus is on developing scalable and impactful solutions using modern technologies.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Completed MCA from Silver Oak University (2026)
+- 💻 Interested in Python Development, AI, and Full Stack Web Development
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Prompt Engineering
+- 🌱 Currently learning advanced AI tools, APIs, and modern development workflows
+- 🛠️ Building projects focused on real-world problem solving
+- 📚 Always learning new technologies and improving development skills
+- 🎯 Goal: To become a highly skilled AI Engineer & Software Developer
+
+---
+
+## 🧠 Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+### AI & Machine Learning
+- Machine Learning Basics
+- CNN Models
+- Transfer Learning
+- Prompt Engineering
+- AI Tools & Automation
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Streamlit
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### ❤️ HeartGuard – Heart Disease Prediction System
+A machine learning-based healthcare project built with Python and Streamlit that predicts the risk of heart disease using manually implemented ML workflows and interactive visualizations.
+
+### 🌿 Plant Disease Detection System
+An AI-powered crop disease detection project using Convolutional Neural Networks (CNN) and transfer learning techniques for identifying plant diseases from images.
+
+### 📄 AI Resume Builder
+A smart resume builder that helps users generate ATS-friendly resumes with AI-powered suggestions, scoring, and content optimization features.
+
+---
+
+## 📈 Currently Working On
+
+- Advanced Python Development
+- AI-Powered Applications
+- Prompt Engineering
+- Machine Learning Projects
+- Improving Problem Solving & DSA Skills
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: **reyanansari7471@gmail.com**
+- 💼 GitHub: **github.com/Reyan7471**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/reyanansari7471/**
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming ideas into real applications and continuously experimenting with AI tools, automation workflows, and modern technologies to build smarter solutions.
+
+---
+
+⭐ *“Code, Learn, Build, Improve, Repeat.”*
