@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Reyan Ansari
 
-### MCA Graduate | Python Developer | AI & Web Development Enthusiast
+### Python Developer | AI & Web Development Enthusiast
 
 I am a passionate and detail-oriented software developer with a strong interest in Python development, Artificial Intelligence, Web Development, and Prompt Engineering. I recently completed my Master of Computer Applications (MCA) at Silver Oak University and continue to build my technical and problem-solving skills through real-world projects.
 
